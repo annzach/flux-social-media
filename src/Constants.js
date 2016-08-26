@@ -1,0 +1,7 @@
+const Constants = {
+  RECEIVE_PROFILE: 'RECEIVE_PROFILE',
+  REMOVE_PROFILE: 'REMOVE_PROFILE',
+  EDIT_PROFILE:'EDIT_PROFILE'
+};
+
+export default Constants;
